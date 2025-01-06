@@ -6,7 +6,7 @@
 #### 二上-管理經濟學
 - 統計課程 [筆記](二上-管理經濟學/統計課程筆記.md)
 - 期末作業 [筆記](二上-管理經濟學/README.md)
-  - 報告PPT [Canva連結](https://www.canva.com/design/DAGVqX5YbBA/ozLKQXI0JcsEe50-hywGKg/edit?utm_content=DAGVqX5YbBA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  - 報告PPT [Canva連結]（https://www.canva.com/design/DAGbOZWhvq0/xB_ATGFSYHQskWY8Dt3Jmg/edit?utm_content=DAGbOZWhvq0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 #### 二下-行銷管理
 - 課堂 [筆記](二下-行銷管理/README.md)
 - 期中考小考 [程式用法](二下-行銷管理/行銷小考題程式.md)
